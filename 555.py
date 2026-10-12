@@ -1,2 +1,5 @@
 print ("Hell world")
 help (print)
+name = input("Як тебе звати? ")
+reselt = int ("5") + int("5")
+print (reselt)
