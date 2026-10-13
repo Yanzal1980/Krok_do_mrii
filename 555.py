@@ -5,6 +5,8 @@ print (reselt)
 # 1. Запитуємо ім'я користувача (input)
 user_name = input("Введіть ваше ім'я: ")
 
+print("fdgfdgfdfdgf")
+
 # 2. Запитуємо рік народження
 birth_year_text = input("Введіть ваш рік народження: ")
 
